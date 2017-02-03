@@ -1,0 +1,87 @@
+body {
+	background-image: url("cool.gif");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: #eafffd;
+}
+
+h1 {
+	color: white;
+	font-size: 70px;
+	width: 100%;
+	font-weight: bold;
+	text-align: center;
+}
+
+h2 {
+	font-size: 50px;
+	text-align: center;
+}
+
+h3 {
+	font-size: 30px;
+	text-align: left;
+	color: pink;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+nav li{
+	display: inline;
+	margin-right: 200px;
+	background-color: lightgrey;
+}
+
+nav li a {
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+}
+
+nav li a:hover {
+    background-color: pink;
+}
+
+li {
+	list-style-type: square;
+}
+
+img {
+	height: 500px;
+	width: 500px;
+    border-radius: 35%;
+    float: right;
+}
+
+#index {
+	background-attachment: scroll;
+}
+
+#bio {
+	margin-top: 80px;
+	margin-left: 300px;
+	margin-right: 300px;
+	border-style: solid;
+	border-color: pink;
+}
+
+#contact {
+	text-align: center;
+	margin-top: -20px;
+}
+
+span {
+	font-weight: bold;
+	color: white;
+}
+
+
+
