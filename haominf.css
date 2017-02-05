@@ -78,9 +78,14 @@ img {
 	margin-top: -20px;
 }
 
+#Min{
+	float: initial;
+	color: pink;
+}
+
 span {
+	float: right;
 	font-weight: bold;
-	color: white;
 }
 
 
