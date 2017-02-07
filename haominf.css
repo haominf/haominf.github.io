@@ -1,4 +1,5 @@
 body {
+	background-color: pink;
 	background-image: url("cool.gif");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
